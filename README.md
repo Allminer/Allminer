@@ -1,3 +1,5 @@
+#这里只是一个演示 主程序项目地址：https://github.com/Allminer/minerproxy
+
 # Allminer 
 Golang编写性能极高，算法升级（独家），抽水平稳0算力损耗，Web后台实时查看抽水算力，支持本地部署混淆加密客户端，Web后台HTTPS访问。
 
